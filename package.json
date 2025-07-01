@@ -1,0 +1,15 @@
+{
+  "name": "e-com-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "Manish bhunia",
+  "license": "ISC",
+  "description": ""
+}
